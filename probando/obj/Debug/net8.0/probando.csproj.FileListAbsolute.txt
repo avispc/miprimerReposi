@@ -1,0 +1,15 @@
+/workspaces/miprimerReposi/probando/bin/Debug/net8.0/probando
+/workspaces/miprimerReposi/probando/bin/Debug/net8.0/probando.deps.json
+/workspaces/miprimerReposi/probando/bin/Debug/net8.0/probando.runtimeconfig.json
+/workspaces/miprimerReposi/probando/bin/Debug/net8.0/probando.dll
+/workspaces/miprimerReposi/probando/bin/Debug/net8.0/probando.pdb
+/workspaces/miprimerReposi/probando/obj/Debug/net8.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/miprimerReposi/probando/obj/Debug/net8.0/probando.AssemblyInfoInputs.cache
+/workspaces/miprimerReposi/probando/obj/Debug/net8.0/probando.AssemblyInfo.cs
+/workspaces/miprimerReposi/probando/obj/Debug/net8.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/miprimerReposi/probando/obj/Debug/net8.0/probando.sourcelink.json
+/workspaces/miprimerReposi/probando/obj/Debug/net8.0/probando.dll
+/workspaces/miprimerReposi/probando/obj/Debug/net8.0/refint/probando.dll
+/workspaces/miprimerReposi/probando/obj/Debug/net8.0/probando.pdb
+/workspaces/miprimerReposi/probando/obj/Debug/net8.0/probando.genruntimeconfig.cache
+/workspaces/miprimerReposi/probando/obj/Debug/net8.0/ref/probando.dll
